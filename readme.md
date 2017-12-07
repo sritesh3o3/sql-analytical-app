@@ -6,7 +6,7 @@ To use this app you don't need to install it you need python
 
 ## whye you should need app
 
-it pring the "hello"
+It print the "hello"
 
 ```
 print("Hello")
@@ -14,6 +14,6 @@ print("Hello")
 
 > "This is great app !" - somebody
 
-***this is bold**
+***this is bold***
 _this is italics_
 
