@@ -4,7 +4,7 @@
 
 To use this app you don't need to install it you need python
 
-## whye you should need app
+## why you should need app
 
 It print the "hello"
 
